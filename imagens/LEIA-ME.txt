@@ -1,0 +1,1 @@
+Adicione imagens com o nome do drink em minusculas, sem acentos, com espacos transformados em hifens. Exemplo: caipirinha.webp, gin-tonica.jpg, old-fashioned.png. Formatos suportados: webp, jpg, jpeg, png. Se nao houver imagem, o site mostra o simbolo existente.
